@@ -3,8 +3,9 @@
 
 | Notebook | Task | Interactive | Repository | Paper |
 |:--------:|:----:|:-----------:|:----------:|:-----:|
-| [InstantID for ID-preserving generation with a single image]() | Image generation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](..) <br> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](..) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/facebookresearch/codellama) <br> [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-grey)](https://github.com/InstantID/InstantID) | [![arXiv](https://img.shields.io/badge/arXiv-2401.07519-b31b1b.svg)](https://arxiv.org/abs/2401.07519) |
+| [InstantID for ID-preserving<br>generation with a single image]() | Image generation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](..) <br> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](..) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/facebookresearch/codellama) <br> [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-grey)](https://github.com/InstantID/InstantID) | [![arXiv](https://img.shields.io/badge/arXiv-2401.07519-b31b1b.svg)](https://arxiv.org/abs/2401.07519) |
 
+<br>
 
 
 # Language
