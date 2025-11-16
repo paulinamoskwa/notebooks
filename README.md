@@ -1,15 +1,7 @@
 
-# Vision
 
-| Notebook | Task | Interactive | Repository | Paper |
-|:--------:|:----:|:-----------:|:----------:|:-----:|
-| [InstantID for ID-preserving<br>generation with a single image](https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/instantID.ipynb) | Image generation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinamoskwa/notebooks/blob/main/notebooks/instantID.ipynb) <br> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/instantID.ipynb) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/InstantID/InstantID) <br> [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-grey)](https://huggingface.co/InstantX/InstantID) | [![arXiv](https://img.shields.io/badge/arXiv-2401.07519-b31b1b.svg)](https://arxiv.org/abs/2401.07519) |
+| Preview | Project |
+|-|-|
+| <img src="https://github.com/user-attachments/assets/8bd97551-5fbc-4223-b18e-e8eb7727dd27" width=550px> | [**Annotate Data with Homography**](https://github.com/paulinamoskwa/ml-notebooks/blob/main/notebooks/synthetic_image_generation.ipynb)<br>Generate synthetic images with Stable Diffusion, create box annotations with Florence, and segmentation masks with SAM<br><sub>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinamoskwa/ml-notebooks/blob/main/notebooks/synthetic_image_generation.ipynb)</sub> |
+| <img src="./notebooks/imgs/feature_match.png" width=550px> | [**Feature Matching and Homography**](https://github.com/paulinamoskwa/ml-notebooks/blob/main/notebooks/feature_matching_and_homography.ipynb)<br>Compute feature matching (keypoints detection and descriptors generation) and homography to apply alignment and projection<br><sub>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinamoskwa/ml-notebooks/blob/main/notebooks/feature_matching_and_homography.ipynb)</sub> |
 
-<br>
-
-
-# Language
-
-| Notebook | Task | Interactive | Repository | Paper |
-|:--------:|:----:|:-----------:|:----------:|:-----:|
-| [CodeLlama 7B - Instructor<br>for code generation](https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/codellama7b-instructor.ipynb) | Code generation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinamoskwa/notebooks/blob/main/notebooks/codellama7b-instructor.ipynb) <br> [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/codellama7b-instructor.ipynb) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/facebookresearch/codellama) <br> [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-grey)](https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12950-b31b1b.svg)](https://arxiv.org/abs/2308.12950) |
