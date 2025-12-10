@@ -8,12 +8,17 @@
 
 
 
-<table>
+<table style="width:100%; table-layout:fixed;">
+  <colgroup>
+    <col style="width:40%;">
+    <col style="width:60%;">
+  </colgroup>
+
   <tr>
-    <td style="width:40%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <img src="https://github.com/user-attachments/assets/f595dadd-c178-45e6-9f18-491752a62082" style="width:100%;">
     </td>
-    <td style="width:60%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <a href="https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/sam-3d-body.ipynb"><b>3D Scene Understanding with SAM 3D Body</b></a><br>
       Estimate 3D human pose from a single image using SAM 3D Body and visualize the reconstructed scene with Rerun.<br>
       <sub>
@@ -25,10 +30,10 @@
   </tr>
 
   <tr>
-    <td style="width:40%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <img src="https://github.com/user-attachments/assets/caa1e6c8-b5e6-452b-ab1f-aff8cf2760ae" style="width:100%;">
     </td>
-    <td style="width:60%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <a href="https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/fine_tune_gemma_3n_for_document_understanding.ipynb"><b>Fine-Tune Gemma 3n for Document Understanding</b></a><br>
       Fine-tune Gemma 3n with QLoRA for vision-based document understanding and structured output extraction.<br>
       <sub>
@@ -40,10 +45,10 @@
   </tr>
 
   <tr>
-    <td style="width:40%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <img src="https://github.com/user-attachments/assets/8bd97551-5fbc-4223-b18e-e8eb7727dd27" style="width:100%;">
     </td>
-    <td style="width:60%; vertical-align:top;">
+    <td style="vertical-align:top;">
       <a href="https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/image_annotation_with_feature_matching_and_homography.ipynb"><b>Feature Matching and Homography for Image Annotation</b></a><br>
       Extract SIFT keypoints, match features across images, and use homography to generate automatic bounding-box annotations.<br>
       <sub>
