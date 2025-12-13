@@ -1,6 +1,6 @@
 
 
-| Preview | Notebook <div style="width:590px">property</div> |
+| Preview | Notebook |
 |-|-|
 | <center><img src="https://github.com/user-attachments/assets/b8096423-7eb6-4d1d-9d95-4f86f8df0526" width="100%"></center> | [**Augmented Reality with AruCo Markers**](https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/sam-3d-body.ipynb)<br>Detect ArUco markers and overlay a 3D GLB model on top of them in real-time using OpenCV and Pyrender.<br> _[not a notebook, needs camera]_ |
 | <center><img src="https://github.com/user-attachments/assets/4e5b7bb0-170b-43d6-9d61-e0824ffa724c" width=100%></center> | [**3D Scene Understanding with SAM 3D Body**](https://github.com/paulinamoskwa/notebooks/blob/main/notebooks/sam-3d-body.ipynb)<br>Estimate 3D human pose from a single image using SAM 3D body and visualize the reconstructed scene with Rerun.<br><sub>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinamoskwa/notebooks/blob/main/notebooks/sam-3d-body.ipynb)</sub> |
